@@ -1,5 +1,8 @@
 _repo: Adventure_1163
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -13,6 +16,8 @@ description: Though novelist Jack London is best known for the paean to natural 
   that is The Call of the Wild, he had an activist side, as well. In Adventure, London
   describes and skewers the plantation system of The Solomon Islands in a devastating
   take-down that is equal parts adventure tale and social justice tract.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1163#Adventure
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
